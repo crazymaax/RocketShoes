@@ -34,8 +34,7 @@ Na parte superior do site consta um botão de carrinho juntamente com a quantida
 O usuário poderá adicionar qualquer produto desde que haja estoque do mesmo, caso o estoque seja zerado uma mensagem aparecerá no canto superior direito da tela.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/95248203/180498583-497c97e9-9c97-4c25-9ad0-ef8be9c9262c.jpg
-" alt="Mensagem de erro" title="Mensagem de erro">
+<img src="https://user-images.githubusercontent.com/95248203/180498583-497c97e9-9c97-4c25-9ad0-ef8be9c9262c.jpg" alt="Mensagem de erro" title="Mensagem de erro">
 </div>
 
 Para a página de carrinho temos, a lista de produtos que foi previamente selecionado, o subtotal da quantidade e o total da compra.
